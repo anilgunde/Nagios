@@ -24,9 +24,10 @@ Nagios core is an open source enterprise monitoring tool. which will monitor var
 5. Comaprision Between Nagios Core and Nagios XI ![image](https://github.com/anilgunde/Nagios/assets/87513730/0102ebb8-ae9a-4477-8d1a-7ff1e4383e77)
 
 6. Nagios Architecture
-   ![image](https://github.com/anilgunde/Nagios/assets/87513730/cb195de9-37de-434e-9e01-83892f208e0f)
 
-7. Terminology
+![image](https://github.com/anilgunde/Nagios/assets/87513730/cb195de9-37de-434e-9e01-83892f208e0f)
+
+8. Terminology
     Plugins: which is external Programs that can consist of either a script or compiled executable.
     Host: Is a Server or any network device which you kwant monitor
     Service: Is any metric (Ex. CPU, Memory Usage)
@@ -48,10 +49,13 @@ Nagios core is an open source enterprise monitoring tool. which will monitor var
 10. SOFT and HARD States
 
     ![image](https://github.com/anilgunde/Nagios/assets/87513730/f3af262d-0246-4ff9-809e-4e57c5a13bc0)
+    
     ![image](https://github.com/anilgunde/Nagios/assets/87513730/e8ce03e0-02eb-4e87-8ea2-01986494d458)
+    
     ![image](https://github.com/anilgunde/Nagios/assets/87513730/0c815f90-d4f6-4212-848d-893014ce2e15)
+    
 
-11. Setup Nagios Lab
+12. Setup Nagios Lab
     a. Disable selinux
     b. disable firewall
     c. update the server
